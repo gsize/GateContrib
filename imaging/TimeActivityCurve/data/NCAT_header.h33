@@ -6,4 +6,4 @@ scaling factor (mm/pixel) [1] := +3.125000e+00
 scaling factor (mm/pixel) [2] := +3.125000e+00
 !number of slices := 128
 slice thickness (pixels) := +3.125000e+00
-
+imagedata byte order := LITTLEENDIAN
